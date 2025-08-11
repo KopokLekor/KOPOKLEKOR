@@ -1,0 +1,28 @@
+a{
+    position: fixed;
+    top: 20px;
+    right: 20px;
+}
+body{
+    background-color: aliceblue;
+}
+table{
+    width: 100%;
+    border-radius: 8px;
+    overflow: hidden;
+    background-color: azure;
+}
+th{
+    border:1px solid #070707;
+    padding: 12px;
+    background-color: #000000c7;
+    color:azure
+}
+td{
+    border: 0.5px solid #070707;
+}
+h2{
+    font-size: 28px;
+    color:blue;
+    text-align: center;
+}
